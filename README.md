@@ -1,5 +1,6 @@
 ### Muhammad Pudja Gemilang
 ### 10119055
+Link to miniproject : https://github.com/pudja2001/MiniProject
 
 Saya telah mengeksplorasi salah satu produk dari google developer yaitu Tensorflow. Tensorflow biasa digunakan sebagai package untuk kebutuhan dalam project machine learning dan Deep Learning. Disana saya telah mengeksplorasi beberapa sub materinya, salah satunya pada bagian ML Basic dari Keras yaitu Basic Image Clasification.
 
